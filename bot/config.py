@@ -27,7 +27,7 @@ prefix = 's.'
 mongouri = ''
 dbcollection = "niga"
 
-owner_ids = [1092548532180877415]
+owner_ids = [] # Add your id here
 
 main_guild = 123
 
