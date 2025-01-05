@@ -1,5 +1,5 @@
 # Sharkrat
-A remote access tool developed in python with implementations with discord
+A very simple remote access tool developed in python with implementations with discord
 
 
 # Setup
