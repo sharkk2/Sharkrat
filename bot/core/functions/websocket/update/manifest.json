@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "release_date": "2024-12-30",
+    "filename": "SharkBlocks.exe",
+    "notes": "Test update release",
+    "request_cmd": "REQUEST_UPDATE"
+}
