@@ -1,4 +1,4 @@
-# Sharkrat
+# Sharkrat (Deprecated)
 A very simple remote access tool developed in python with implementations with discord
 
 
